@@ -5,3 +5,5 @@ Welcome to Git...
 Change : Login feature
 
 change : to fix bug1
+
+change : to fix bug2
